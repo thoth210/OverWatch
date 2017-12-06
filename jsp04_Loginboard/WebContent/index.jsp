@@ -18,7 +18,6 @@
 		location.href="logincontroller.jsp?command=resistform";
 	}
 </script>
-
 <style type="text/css">
 	div{
 	margin-top:3%;
