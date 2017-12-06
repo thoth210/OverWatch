@@ -37,7 +37,7 @@
 				<td><input type="text" name="id"/></td>		
 			</tr>
 			<tr>
-				<th>비밀번호</th>
+				<th>비밀번호.ㅇㅇㅇ</th>
 				<td><input type="password" name="pw"/></td>		
 			</tr>
 			<tr>
